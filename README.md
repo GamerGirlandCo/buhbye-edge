@@ -1,2 +1,2 @@
-# buhbye-edge
-a little batch script to remove that godawful (((browser))) :]
+# EdgeBeGone
+a little batch script to forcibly remove that godawful (((browser))) :]
